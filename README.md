@@ -73,6 +73,8 @@ The prediction pipeline is implemented using Flask, a micro web framework for Py
 
 The project can be deployed using various cloud services such as AWS (Elastic Beanstalk or Docker) or Azure (GitHub Actions or MLOps). Detailed instructions for deployment are provided in the respective deployment guides.
 
+---
+
 ## Steps
 
 - Setting up of Github Repository
