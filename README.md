@@ -5,9 +5,11 @@
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
 3. [Problem Statement](#problem-statement)
-4. [Modular Code](#modular-code)
-5. [Prediction Pipeline](#prediction-pipeline)
-6. [Deployment](#deployment)
+4. [Dataset](#Dataset)
+5. [Modular Code](#modular-code)
+6. [Prediction Pipeline](#prediction-pipeline)
+7. [Deployment](#deployment)
+8. [Steps](#Steps)
 
 ---
 
