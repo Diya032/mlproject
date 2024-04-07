@@ -107,3 +107,8 @@ The project can be deployed using various cloud services such as AWS (Elastic Be
 
 - Deployment
     - Choices :  AWS [Elastic Beanstalk or Docker] OR Azure[Github actions or MLOPS]
+
+---
+
+![home_page](https://github.com/Diya032/mlproject/assets/99545441/5a3fd43c-c12f-4227-9ccb-2a9a26cab715)
+
